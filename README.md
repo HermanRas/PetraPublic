@@ -1,24 +1,27 @@
-# Mining Delays
-<img src="https://github.com/HermanRas/MiningDelays/blob/master/img/Logo.jpg" alt="#PetraLogo">
+# Petra Public
+<img src="https://github.com/HermanRas/PetraPublic/blob/master/img/Page.jpg" alt="#PetraLogo">
+
+## Base Template from:
+- https://themewagon.com/themes/free-bootstrap-4-html5-travel-agency-website-template-martine/
 
 ## Issues Tracking
 ### Issues Tracking: Total Logged !
- - [![Open Issues](https://img.shields.io/github/issues/HermanRas/MiningDelays.svg)](https://github.com/HermanRas/MiningDelays/issues)
-[!["Closed Issues"](https://img.shields.io/github/issues-closed/HermanRas/MiningDelays.svg?style=flat-square)](https://github.com/HermanRas/MiningDelays/issues)
+ - [![Open Issues](https://img.shields.io/github/issues/HermanRas/PetraPublic.svg)](https://github.com/HermanRas/PetraPublic/issues)
+[!["Closed Issues"](https://img.shields.io/github/issues-closed/HermanRas/PetraPublic.svg?style=flat-square)](https://github.com/HermanRas/PetraPublic/issues)
 ### Issues Tracking: by type
- - [!["To Do"](https://img.shields.io/github/issues/HermanRas/MiningDelays/help%20wanted.svg)](https://github.com/HermanRas/MiningDelays/labels/help%20wanted)
-[!["Look At"](https://img.shields.io/github/issues/HermanRas/MiningDelays/enhancement.svg)](https://github.com/HermanRas/MiningDelays/labels/enhancement)
-[!["Open Bug"](https://img.shields.io/github/issues/HermanRas/MiningDelays/bug.svg)](https://github.com/HermanRas/MiningDelays/labels/bug)
-[!["Confirm Scope"](https://img.shields.io/github/issues/HermanRas/MiningDelays/question.svg)](https://github.com/HermanRas/MiningDelays/labels/question)
+ - [!["To Do"](https://img.shields.io/github/issues/HermanRas/PetraPublic/help%20wanted.svg)](https://github.com/HermanRas/PetraPublic/labels/help%20wanted)
+[!["Look At"](https://img.shields.io/github/issues/HermanRas/PetraPublic/enhancement.svg)](https://github.com/HermanRas/PetraPublic/labels/enhancement)
+[!["Open Bug"](https://img.shields.io/github/issues/HermanRas/PetraPublic/bug.svg)](https://github.com/HermanRas/PetraPublic/labels/bug)
+[!["Confirm Scope"](https://img.shields.io/github/issues/HermanRas/PetraPublic/question.svg)](https://github.com/HermanRas/PetraPublic/labels/question)
 
 ### Latest Release
- - [!["Latest Release"](https://img.shields.io/github/release/HermanRas/MiningDelays.svg)](https://github.com/HermanRas/MiningDelays/releases)
-[!["Release Date"](https://img.shields.io/github/release-date/HermanRas/MiningDelays.svg)](https://github.com/HermanRas/MiningDelays/releases)
+ - [!["Latest Release"](https://img.shields.io/github/release/HermanRas/PetraPublic.svg)](https://github.com/HermanRas/PetraPublic/releases)
+[!["Release Date"](https://img.shields.io/github/release-date/HermanRas/PetraPublic.svg)](https://github.com/HermanRas/PetraPublic/releases)
 
 ### Latest Dev Build
- - [!["Latest Release"](https://img.shields.io/github/release-pre/HermanRas/MiningDelays.svg)](https://github.com/HermanRas/MiningDelays/releases)
-[!["Release Date"](https://img.shields.io/github/release-date-pre/HermanRas/MiningDelays.svg)](https://github.com/HermanRas/MiningDelays/releases)
-[!["Last Updated"](https://img.shields.io/github/last-commit/HermanRas/MiningDelays.svg)](https://github.com/HermanRas/MiningDelays/releases)
+ - [!["Latest Release"](https://img.shields.io/github/release-pre/HermanRas/PetraPublic.svg)](https://github.com/HermanRas/PetraPublic/releases)
+[!["Release Date"](https://img.shields.io/github/release-date-pre/HermanRas/PetraPublic.svg)](https://github.com/HermanRas/PetraPublic/releases)
+[!["Last Updated"](https://img.shields.io/github/last-commit/HermanRas/PetraPublic.svg)](https://github.com/HermanRas/PetraPublic/releases)
 
 ### Requirements
  - [!["PHP 7.2"](https://img.shields.io/badge/PHP-7.2%5E-blue.svg)](https://www.php.net/)(php7.2-xml, php7.2-mbstring, php7.2-zip)
@@ -41,17 +44,10 @@
 
 
 ## ChangeLog
-- DONE 2020-02-14 Fixed Breakdown Hours
-- DONE 2020-02-14 Merged Workflow to 2 pages with client side filters
-- DONE 2020-02-17 added Start date to summary page and added default sort by start date DESC
-- DONE 2020-02-17 added breakdown hours to view all page
-- DONE 2020-02-17 added breakdown hours to view all page
-- DONE 2020-02-18 formatted Breakdown hours to 00h 00m format
-- DONE 2020-02-18 Patched Support for Operational Delays Added to Database
-- DONE 2020-03-06 Removed ground handling from Mining Delays
+- DONE 2020-03-16 Upload Base Init to GIT
 
-## To-Do Induction
-- Update usernames with access to maintenance tables
+## To-Do
+- NONE
 
 ## Look-At-Implementing
 - NONE
